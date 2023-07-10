@@ -7,7 +7,7 @@ const fs = require('fs');
 exports._root = process.cwd();
 exports._path = Dir();
 exports._dbVersion = 2;
-exports._debug = true;
+exports._debug = false;
 var TypePrint;
 (function (TypePrint) {
     TypePrint[TypePrint["info"] = 0] = "info";
