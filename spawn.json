@@ -1,0 +1,21 @@
+{
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "type": 1,
+    "range": 80,
+    "level": {
+        "explode": false,
+        "placeblock": false,
+        "destroyblock": false,
+        "blockinteracted": false
+    },
+    "pvp": false,
+    "pve": false,
+    "damage": true,
+    "monsters": false,
+    "teleport": {
+        "enabled": true,
+        "time": 0
+    }
+}
